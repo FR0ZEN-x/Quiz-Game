@@ -17,7 +17,7 @@ This is a simple Quiz App built using HTML, CSS, and JavaScript. The app allows 
 ![Home Screen](Images/Home_page.png)
 
 ### Results Screen
-![Results Screen](Images/Result.png)
+![Results Screen](Images/Result_page.png)
 
 ## Author
 
