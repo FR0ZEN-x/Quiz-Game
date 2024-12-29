@@ -14,10 +14,10 @@ This is a simple Quiz App built using HTML, CSS, and JavaScript. The app allows 
 ## Screenshots
 
 ### Home Screen
-![Home Screen](images/Home_page.png)
+![Home Screen](Images/Home_page.png)
 
 ### Results Screen
-![Results Screen](images/Result.png)
+![Results Screen](Images/Result.png)
 
 ## Author
 
